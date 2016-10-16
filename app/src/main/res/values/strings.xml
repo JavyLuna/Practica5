@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica #5</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Practica Android #5</string>
+    <string name="cent">Ingresa los grados C°</string>
+    <string name="btnFar">F°</string>
+    <string name="btnKel">K°</string>
+    <string name="btnRan">R°</string>
+</resources>
